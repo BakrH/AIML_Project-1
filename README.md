@@ -37,14 +37,15 @@ Preliminary findings suggest that factors such as frequency of bar visits, age, 
 ## Getting Started
 To explore the data and findings, clone this repository and run the Jupyter notebooks provided. Ensure you have the necessary Python libraries installed.
 
-```bash
-git clone https://github.com/yourusername/coupon-acceptance-analysis.git
-cd coupon-acceptance-analysis
 Contributions
-Contributions are welcome! If you have suggestions for improvements or additional analyses, feel free to open an issue or submit a pull request.
+We welcome contributions! If you have suggestions for improvements or additional analyses, please feel free to open an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
 Acknowledgments
-Special thanks to the UCI Machine Learning repository and Amazon Mechanical Turk for providing the data used in this analysis.
+We would like to extend our gratitude to the UCI Machine Learning Repository and Amazon Mechanical Turk for providing the data utilized in this analysis.
+
+References
+UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation
+Thank you for your interest in the Coupon Acceptance Analysis Project! We hope you find the insights valuable and informative.
